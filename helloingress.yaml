@@ -19,7 +19,7 @@ spec:
        pathType: Prefix
        backend:
          service:
-           name: hello
+           name: hellov1
            port:
              number: 80
 ---
